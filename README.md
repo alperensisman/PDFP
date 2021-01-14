@@ -1,15 +1,13 @@
 # PDFP
 Programlama Dilleri Final Projesi
 
-Merhabalar,ben Alperen Şişman. PDFP Tanıtım videosuna hoş geldiniz. 
-Bu videoda size PDFP uygulamasının nasıl çalıştığından ve nasıl
- kullanılabileceğinden bahsedicem.
+Merhabalar,ben Alperen Şişman.
+PDFP uygulamasının nasıl çalıştığından ve nasıl kullanılabileceğinden bahsedicem.
 Öncelikle PDFP nin ne olduğundan ve hangi kriterlere göre kodlandığından bahsedelim.
 
 PDFP, Programlama Dilleri Final Projesi adının kısaltılmışıdır. 
-İsmiyle bağlantılı olarak sadece pdf dosyalarının analizini gerçekleştirmesi 
-hedefiyle dokümante edilmiştir ve 
-uygulanmıştır. Ayrıca PDFP bir windows işletim sistemi uygulamasıdır.
+İsmiyle bağlantılı olarak sadece pdf dosyalarının analizini gerçekleştirmesi hedefiyle dokümante edilmiştir ve uygulanmıştır. 
+Ayrıca PDFP bir windows işletim sistemi uygulamasıdır.
 
 PDFP İçerisinde,
 -Kendine Has Dosya Türü Vardır. Dosya Türü: '.pdfp' olarak tanımlanmıştır.
